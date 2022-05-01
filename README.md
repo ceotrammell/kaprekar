@@ -1,0 +1,1 @@
+to run in command line => 'node index.js'
